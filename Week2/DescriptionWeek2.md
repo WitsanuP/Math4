@@ -12,5 +12,5 @@
 เนื่องจาก data type ของ t ใน f(t) นั้นไม่เหมือนกัน
 
 # HwSlide1Page61_version3.mlx
-แก้ปัญหาด้วย integration
-จัดรูปแบบให้สวยงาม
+- แก้ปัญหาด้วย integration
+- จัดรูปแบบให้สวยงาม
