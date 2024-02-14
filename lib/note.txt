@@ -1,0 +1,9 @@
+new
+ Bisection.m from text
+ bisection.m from phD
+ 
+remake 
+ Nzeros.m pooh - text
+ 
+addcomment
+ Bisct.m pooh
