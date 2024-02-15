@@ -1,9 +1,11 @@
 new
- Bisection.m from text
- bisection.m from phD
+ Bisection.m    text
+ bisection.m    phD
+ RegulaFalsi.m  text
  
 remake 
- Nzeros.m pooh - text
- 
+ Nzeros.m   text
+ FixedPoint text
+ Newton     text
 addcomment
- Bisct.m pooh
+ Bisct.m text
