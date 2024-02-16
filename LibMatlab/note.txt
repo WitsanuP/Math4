@@ -1,0 +1,14 @@
+new
+ Bisection.m    text
+ bisection.m    phD
+ RegulaFalsi.m  text
+ GaussTable	WitsanuP
+remake 
+ Nzeros.m   	text
+ FixedPoint 	text
+ Newton     	text
+ LinearRegression	text
+ Bisct.m 	text
+ LagrangeInterp text
+ QuadraticRegression	text
+ NewtonInterp  	text
