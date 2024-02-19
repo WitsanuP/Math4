@@ -1,4 +1,5 @@
 function table = GaussTable(x,y)
+% GaussTable(x,y)
 % make by WitsanuP
 n = length(x);
 for(i=1:n)
