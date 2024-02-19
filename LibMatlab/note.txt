@@ -2,7 +2,13 @@ new
  Bisection.m    text
  bisection.m    phD
  RegulaFalsi.m  text
+ ln.m		WitsanuP
  GaussTable	WitsanuP
+ NewtonForwardDiff.m 	WitsanuP
+ NewtonForwardDiff2.m 	WitsanuP
+ UpperSum.m	WitsanuP
+ LowerSum.m	WitsanuP
+ 
 remake 
  Nzeros.m   	text
  FixedPoint 	text
@@ -12,3 +18,6 @@ remake
  LagrangeInterp text
  QuadraticRegression	text
  NewtonInterp  	text
+ Simpson.m	text
+ TrapComp.m	text
+ Romberg.m	text
